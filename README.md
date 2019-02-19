@@ -1,6 +1,4 @@
 # hello-world
 my first git experience
 
-Hi there, my friend!
-
-I'm here again...
+I have delete everything...
