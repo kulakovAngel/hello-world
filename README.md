@@ -2,5 +2,3 @@
 my first git experience
 
 Hi there, my friend!
-
-I'm here again...
